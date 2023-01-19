@@ -1,0 +1,24 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Project for funny and study",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "run:test": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastianAhumada/MERN.git"
+  },
+  "author": "Bastian Ahumada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BastianAhumada/MERN/issues"
+  },
+  "homepage": "https://github.com/BastianAhumada/MERN#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
